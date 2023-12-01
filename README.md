@@ -8,13 +8,13 @@ CONTENTS
   - Clean dataset: data_edited.csv
   - Clean dataset for plotting: data_plotting.csv
   - Direct results of the survey: RAW_data.csv
-  - Clean dataset for Turing questions: turing_stats.csv
 - Jupyter notebook 1: Abs-Emis_analysis.ipynb
 - Jupyter notebook 2: Qualitative_analysis.ipynb
 - Jupyter notebook 3: Qualitative_plot.ipynb
-- Jupyter notebook 4: Turing_analysis.ipynb
-- Jupyter notebook 5: Turing_plot.ipynb
+- LICENSE
+- README
 - requirements.txt
+
 
 INSTALLATION
 
