@@ -13,6 +13,7 @@ CONTENTS
 - Jupyter notebook 2: Abs-Emis_plot.ipynb
 - Jupyter notebook 3: Qualitative_analysis.ipynb
 - Jupyter notebook 4: Qualitative_plot.ipynb
+- Jupyter notebook 5: Music_Composition_feedback.ipynb
 - LICENSE
 - README
 - requirements.txt
